@@ -1,0 +1,2 @@
+# proposals
+Proposals for Saltmine
