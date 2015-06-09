@@ -1,0 +1,2 @@
+gem "rom-sql"
+gem "sqlite3"
